@@ -25,12 +25,13 @@ namespace SimbirSoftTest
             data = Regex.Replace(data, @"<style[^>]*>[\s\S]*?</style>", string.Empty);
             data = Regex.Replace(data, @"<script[^>]*>[\s\S]*?</script>", string.Empty);
             data = Regex.Replace(data, @"\[[\s\S]*?\]", string.Empty);
-            data = Regex.Replace(data, @"\-[\s\S]*?\-", string.Empty);
+            //data = Regex.Replace(data, @"\-[\s\S]*?\-", string.Empty);
             data = Regex.Replace(data, "<[^>]+>", string.Empty);
             data = Regex.Replace(data, @"[\(\.\,\:\;\-\!\?\'\$\&\%\№\#\<\>\«\»\)]", " ");
             data = Regex.Replace(data, "\"", string.Empty);
             data = Regex.Replace(data, @"\d", string.Empty);
             data = Regex.Replace(data, @"\s+", " ");
+            data = data.ToUpper();
             string[] word = data.Split(' ');
             Dictionary<string, int> words = new Dictionary<string, int>();
             foreach (var wordd in word)

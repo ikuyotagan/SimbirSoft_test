@@ -1,0 +1,16 @@
+C:\Users\Igor\source\repos\SimbirSoftTest\SimbirSoftTest\bin\Debug\net5.0\SimbirSoftTest.exe
+C:\Users\Igor\source\repos\SimbirSoftTest\SimbirSoftTest\bin\Debug\net5.0\SimbirSoftTest.deps.json
+C:\Users\Igor\source\repos\SimbirSoftTest\SimbirSoftTest\bin\Debug\net5.0\SimbirSoftTest.runtimeconfig.json
+C:\Users\Igor\source\repos\SimbirSoftTest\SimbirSoftTest\bin\Debug\net5.0\SimbirSoftTest.runtimeconfig.dev.json
+C:\Users\Igor\source\repos\SimbirSoftTest\SimbirSoftTest\bin\Debug\net5.0\SimbirSoftTest.dll
+C:\Users\Igor\source\repos\SimbirSoftTest\SimbirSoftTest\bin\Debug\net5.0\ref\SimbirSoftTest.dll
+C:\Users\Igor\source\repos\SimbirSoftTest\SimbirSoftTest\bin\Debug\net5.0\SimbirSoftTest.pdb
+C:\Users\Igor\source\repos\SimbirSoftTest\SimbirSoftTest\obj\Debug\net5.0\SimbirSoftTest.csprojAssemblyReference.cache
+C:\Users\Igor\source\repos\SimbirSoftTest\SimbirSoftTest\obj\Debug\net5.0\SimbirSoftTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Igor\source\repos\SimbirSoftTest\SimbirSoftTest\obj\Debug\net5.0\SimbirSoftTest.AssemblyInfoInputs.cache
+C:\Users\Igor\source\repos\SimbirSoftTest\SimbirSoftTest\obj\Debug\net5.0\SimbirSoftTest.AssemblyInfo.cs
+C:\Users\Igor\source\repos\SimbirSoftTest\SimbirSoftTest\obj\Debug\net5.0\SimbirSoftTest.csproj.CoreCompileInputs.cache
+C:\Users\Igor\source\repos\SimbirSoftTest\SimbirSoftTest\obj\Debug\net5.0\SimbirSoftTest.dll
+C:\Users\Igor\source\repos\SimbirSoftTest\SimbirSoftTest\obj\Debug\net5.0\ref\SimbirSoftTest.dll
+C:\Users\Igor\source\repos\SimbirSoftTest\SimbirSoftTest\obj\Debug\net5.0\SimbirSoftTest.pdb
+C:\Users\Igor\source\repos\SimbirSoftTest\SimbirSoftTest\obj\Debug\net5.0\SimbirSoftTest.genruntimeconfig.cache
